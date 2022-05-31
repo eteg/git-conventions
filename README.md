@@ -1,12 +1,12 @@
 # Git Conventions
 
 ## Table of contents
-- [Repository](#Repository)
-- [Pull request](#Pull-request)
-- [Branch](#Branch)
-- [Commit](#Commit)
-- [Types](#Commit)
-- [Scope](#Scope)
+- [Repository](#repository)
+- [Pull request](#pull-request)
+- [Branch](#branch)
+- [Commit](#commit)
+- [Types](#type)
+- [Scope](#scope)
 
 ## Repository
 
@@ -38,17 +38,17 @@
 
 ## Type
 
-```feat``` add a new feature.
+`feat` add a new feature.
 
-```fix``` fix a bug.
+`fix` fix a bug.
 
-```refactor``` rewrite/restructure your code, however does not change any behaviour.
+`refactor` rewrite/restructure your code, however does not change any behaviour.
 
-```test``` add missing tests or correcting existing tests.
+`test` add missing tests or correcting existing tests.
 
-```docs``` affect documentation only.
+`docs` affect documentation only.
 
-```chore``` miscellaneous commits e.g. modifying .gitignore
+`chore` miscellaneous commits e.g. modifying .gitignore
 
 > E.g. feat(home): cleaning up my house
 
