@@ -50,6 +50,10 @@
 
 `chore` miscellaneous commits e.g. modifying .gitignore
 
+`build` changes that affect build tools like, webpack, vite, NPM scripts...
+
+`ci` affect pipeline files, like Github actions workflow.
+
 > E.g. feat(home): cleaning up my house
 
 ## Scope
